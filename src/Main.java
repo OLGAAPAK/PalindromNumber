@@ -29,5 +29,6 @@ public class Main {
         //      reversed = reversed * 10 + digit;
         //      temp /= 10; }
         //  return (reversed == x);
+
     }
 }
